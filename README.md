@@ -16,7 +16,7 @@
 ## 📊 我的 GitHub 統計數據 (GitHub Stats)
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kristin223lab&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的GitHub帳號]&layout=compact&theme=tokyonight" alt="Top Langs" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristin223lab&layout=compact&theme=tokyonight" alt="Top Langs" height="180px"/>
 </p>
 
 ## 📫 如何聯繫我
